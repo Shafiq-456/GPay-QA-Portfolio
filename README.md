@@ -39,9 +39,9 @@ one of India's most widely used digital payment applications.
 | Metric | Count |
 |--------|-------|
 | Total Test Cases | 35 |
-| Passed | (fill after testing) |
-| Failed | (fill after testing) |
-| Bugs Found | (fill after testing) |
+| Passed | 35 |
+| Failed | 0 |
+| Bugs Found | 3 |
 
 ---
 *This is a personal QA portfolio project to demonstrate testing methodology and documentation skills.*
