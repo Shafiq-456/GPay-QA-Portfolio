@@ -16,6 +16,9 @@ one of India's most widely used digital payment applications.
 | GPay_Test_Plan.docx | Complete Test Plan – scope, objectives, approach, entry/exit criteria |
 | GPay_QA_Test_Cases.xlsx | 35 Test Cases + Bug Report Log + Summary Dashboard |
 
+![Uploading Gpay QA Testing.png…]()
+
+
 ## ✅ What Was Tested
 - App Launch & Splash Screen
 - Login / OTP / Biometric Authentication
