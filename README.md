@@ -13,3 +13,12 @@
 
 ## 📌 Project Overview
 A comprehensive manual quality assurance project simulating a real-world testing cycle on **Google Pay (Android)**. This project demonstrates core QA competencies: designing structured test plans, executing rigorous positive/negative test scenarios, identifying edge-case defects, and documenting actionable bug reports.
+
+
+📁 Repository Structure
+├── 📄 GPay_Test_Plan.docx          # Scope, test strategy, risk matrix, entry/exit criteria
+├── 📊 GPay_QA_Test_Cases.xlsx      # 35 execution test cases + defect log + metrics dashboard
+├── 🖼️ images/
+│   └── gpay-qa-testing.png         # Test execution screenshots & visual proofs
+└── 📑 README.md                    # Project documentation & summary
+
