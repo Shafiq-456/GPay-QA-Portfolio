@@ -62,4 +62,4 @@ A comprehensive manual quality assurance project simulating a real-world testing
 ## 📬 Contact & Connect
 * **Tester:** Mohammed Shafiq
 * **GitHub:** https://github.com/Shafiq-456/
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/)
+* **LinkedIn:** https://www.linkedin.com/in/mdshafiq45/
